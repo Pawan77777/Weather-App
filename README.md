@@ -53,12 +53,12 @@ Error Handling: If the city entered is invalid or no weather data is available, 
 
 City Name: The app uses a city name to fetch coordinates, so ensure to use the correct and well-known city names for better results.
 
-CORS Issues: If you're running the app on a local server and encounter CORS issues, you may need to configure CORS headers on your server or use a CORS proxy for development purposes.
+CORS Issues: If you're running the app on a local server and encounter CORS issues, you may need to configure CORS headers on your server or use a CORS proxy for development purposes'.
 
 Potential Improvements
 Add support for additional weather metrics like humidity, air pressure, or sunrise/sunset times.
 Enhance the design with more responsive breakpoints for mobile devices.
-Implement location-based weather fetching using the user's geolocation.
+Implement location-based weather fetching using the users geolocation.
 Add a 5-day weather forecast feature.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
