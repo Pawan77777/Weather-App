@@ -26,7 +26,7 @@ Ensure you have a modern web browser (like Chrome or Firefox) installed.
 Open the index.html file in your browser to view the application.
 bash
 Copy code
-git clone https://github.com/your-username/weather-now.git
+git clone https://github.com/Pawan77777/Weather-App.git
 cd weather-now
 open index.html
 File Structure
